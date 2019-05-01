@@ -1,2 +1,3 @@
 hi umesh 
 welcome to github learning 
+you should try to learn basic git commands
