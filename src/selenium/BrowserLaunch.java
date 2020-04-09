@@ -9,7 +9,7 @@ public class BrowserLaunch {
 
 	public static void main(String[] args) {
 		
-    System.setProperty("webdriver.chrome.driver",".//drivers//chromedriver.exe");
+    System.setProperty("webdriver.chrome.driver",".//drivers//chromedriver.exe");//this browser property
     
 	WebDriver driver=new ChromeDriver();
     
